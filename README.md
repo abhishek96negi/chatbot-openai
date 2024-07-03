@@ -1,5 +1,9 @@
 # Chatbot-using-OpenAI-Telegram
 
+
+## Architecture Diagram
+![image](static/image/chatbot-openai-telegram-architecture.png)
+
 ## Prerequisites
 
 To follow this tutorial, you will need:
